@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jihyo
+# Hi there 👋, I'm Jihyo
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: kimiihvo@gmail.com
 
