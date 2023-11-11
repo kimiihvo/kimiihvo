@@ -2,6 +2,12 @@
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: kimiihvo@gmail.com
 
+### ✔️Frond-end
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css&logoColor=white"><img src="https://img.shields.io/badge/Angular.Js-E23237?style=for-the-badge&logo=AngularJs&logoColor=white"><img src="https://img.shields.io/badge/VUE.Js-4FC08D?style=for-the-badge&logo=VUE.Js&logoColor=white"><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+### ✔️Back-end
+<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
+
+
 <!--
 **kimiihvo/kimiihvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
