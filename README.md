@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jihyo</h1>
+<h2 align="center">Hi there 👋, I'm Jihyo</h2>
   <br/>
 <div align="center">
 <!-- 📚 Tech Stack 📚 -->
