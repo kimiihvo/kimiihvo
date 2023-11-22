@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Jihyo</h2>
   <br/>
 <div align="center">
-<!-- 📚 Tech Stack 📚 -->
+<h4>📚 Tech Stack 📚</h4>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Angular.Js-E23237?style=for-the-badge&logo=AngularJs&logoColor=white">
 <img src="https://img.shields.io/badge/VUE.Js-4FC08D?style=for-the-badge&logo=VUE.Js&logoColor=white">
