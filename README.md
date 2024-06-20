@@ -41,6 +41,9 @@
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+<img src="https://img.shields.io/badge/Apache FreeMarker-1B6AC6?style=for-the-badge&logo=apachefreemarker&logoColor=white">
+
 </div>
 
 <!--
